@@ -1,22 +1,15 @@
-# _(Mock) Google Think_
+# _Title_
 
-#### _{A responsive site using a framework}, {Dec 2, 2016}_
+#### _{Description Here}, {DATE}_
 
 #### By _**Kyle Lange**_
 
 ![screenshot](Screen Shot.png)
 
 
-## Description
- This week's code review must include:
+## Learnings
 
- * Relative units used where appropriate.
-
-* Page(s) respond to at least three different screen sizes.
-
-* Images are fluid.
-
-* Project is in a polished, portfolio-quality state.
+*
 
 
 
@@ -40,7 +33,7 @@ For questions or comments, please __email  [Kyle here.](baronsintrees@gmail.com)
 
 * HTML5
 * CSS3 with Bootstrap 3
-* JavaScript with jQuery 3.1
+* JavaScript
 
 ### License
 

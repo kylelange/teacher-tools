@@ -1,25 +1,24 @@
-# _Title_
+# _Teacher Tools_
 
-#### _{Description Here}, {DATE}_
+#### _The code in this repo is but a portion of a larger program that I contributed to in development, but that I cannot show you, as it is the property of Lumen Learning.  I have been given permission to showcase my portion of the code to showcase my skills in React.js., {March 1st, 2017}_
 
 #### By _**Kyle Lange**_
 
-![screenshot](Screen Shot.png)
+![screenshot - coming soon](Screen Shot.png)
 
 
 ## Learnings
 
-*
-
-
+* Setting/changing state
+* Passing child components props
+* Using React methods/ creating custom methods
+* Passing Methods as props
+* Using inline styles on common components
+* Various ES6 skills: Interpolation, ternary operators, and spread operators
 
 ## Setup/Installation Requirements
 
-1. Download this repo using your terminal: git clone repo-name pasted here
-
-2. View the code by drag-and-dropping the file into your [favorite text editor](https://atom.io)
-
-3. run/check-out the program by dropping the index/html file from your folder into your web browser
+1. This code is in a VIEW-ONLY state to showcase my skills in React.js.  Permission to show this code has been granted by Lumen Learning.
 
 ## Known Bugs
 

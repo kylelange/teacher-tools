@@ -4,7 +4,7 @@
 
 #### By _**Kyle Lange**_
 
-![screenshot - coming soon](Screen Shot.png)
+![Screen shot:](lumen-case-study.png)
 
 
 ## Learnings
@@ -18,7 +18,7 @@
 
 ## Setup/Installation Requirements
 
-1. This code is in a VIEW-ONLY state to showcase my skills in React.js.  Permission to show this code has been granted by Lumen Learning.
+1. This code is in a VIEW-ONLY state to showcase my skills in React.js.  Permission to show this code has been granted by Lumen Learning.  You are welcome to clone are read my code [in your favorite text editor](https://atom.io/)
 
 ## Known Bugs
 
